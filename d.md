@@ -1,1 +1,1 @@
-hi [poop](poop)
+hi [poop](poop.md)
